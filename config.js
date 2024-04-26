@@ -22,11 +22,11 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["371943073061666816", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'Bumm',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -35,7 +35,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "https://www.youtube.com/watch?v=xvFZjo5PgG0&pp=ygUJcmljayByb2xs",
   },
 
   voteManager: {
